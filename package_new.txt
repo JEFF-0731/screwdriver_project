@@ -1,0 +1,8 @@
+opencv-python
+matplotlib
+psycopg2==2.9
+pypylon
+PyQt5
+pyserial
+WMI
+pyModbusTCP

@@ -1,0 +1,11 @@
+tensorflow-gpu==2.6.0
+keras==2.6.0
+scikit-learn
+opencv-python==3.4.2.16
+matplotlib==3.3.4
+psycopg2==2.8.0
+pypylon
+PyQt5
+pyserial
+WMI
+pyModbusTCP
